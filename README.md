@@ -2,4 +2,4 @@
 
 Dylan Hanson
 
-Deployed at [SCI.DYL.FYI](https://sci.dyl.fyi).
+Deployed at [PHYS.DYL.FYI](https://phys.dyl.fyi).

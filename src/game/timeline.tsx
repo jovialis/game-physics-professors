@@ -170,8 +170,8 @@ export const timeline: Timeline = {
 				}
 			],
 			sources: [
-				"[1] https://eric.ed.gov/?id=EJ1231349",
-				"[2] https://www.frontiersin.org/articles/10.3389/feduc.2020.00025/full"
+				"https://eric.ed.gov/?id=EJ1231349",
+				"https://www.frontiersin.org/articles/10.3389/feduc.2020.00025/full"
 			]
 		},
 		{
@@ -214,7 +214,7 @@ export const timeline: Timeline = {
 				}
 			],
 			sources: [
-				"[1] https://www.frontiersin.org/articles/10.3389/feduc.2020.00025/full"
+				"https://www.frontiersin.org/articles/10.3389/feduc.2020.00025/full"
 			]
 		},
 		{
